@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShehanUdantha
-- 👀 I’m interested in learn Programming
+- 👀 I’m interested in Mobil App development and Game development
 - 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
